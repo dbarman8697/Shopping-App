@@ -1,0 +1,25 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "iphone 12 pro",
+      "desc": "6.1-inch display",
+      "price": 999,
+      "image": "https://img2.gadgetsnow.com/gd/images/products/additional/large/G201746_View_1/mobiles/smartphones/apple-iphone-12-pro-128-gb-pacific-blue-6-gb-ram-.jpg"
+    },
+    {
+      "id": 2,
+      "name": "iphone 12 ",
+      "desc": "5.4-inch display",
+      "price": 699,
+      "image": "https://img4.gadgetsnow.com/gd/images/products/additional/large/G201790_View_1/mobiles/smartphones/apple-iphone-12-128-gb-white-4-gb-ram-.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Galaxy S",
+      "desc": "6.5-inch display",
+      "price": 399,
+      "image": "https://img3.gadgetsnow.com/gd/images/products/additional/large/G136651_View_2/mobiles/smartphones/samsung-galaxy-s20-ultra-5g-128-gb-cosmic-grey-cosmic-black-12-gb-ram-.jpg"
+    }
+  ]
+}
