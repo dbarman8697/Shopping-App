@@ -8,6 +8,7 @@ const Homepage = () => {
   const dispatch = useDispatch();
   const navigate = useNavigate();
 
+
   const handleAddToCart = (product) => {
     dispatch(addToCart(product));
     navigate("/cart");

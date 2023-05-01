@@ -20,6 +20,35 @@
       "desc": "6.5-inch display",
       "price": 399,
       "image": "https://img3.gadgetsnow.com/gd/images/products/additional/large/G136651_View_2/mobiles/smartphones/samsung-galaxy-s20-ultra-5g-128-gb-cosmic-grey-cosmic-black-12-gb-ram-.jpg"
+    },
+    {
+      "name": "Nokia C31",
+      "desc": "6.75-inch",
+      "price": 322,
+      "image": "https://i.gadgets360cdn.com/products/large/nokia-c31-db-709x800-1671163824.jpg?downsize=*:180",
+      "": "a",
+      "id": 4
+    },
+    {
+      "name": "realme C33 2023 ",
+      "desc": "16.51 cm (6.5 inch)",
+      "price": 435,
+      "image": "https://rukminim1.flixcart.com/image/416/416/xif0q/mobile/9/z/o/-original-imaghuf9guqmb65z.jpeg?q=70",
+      "id": 5
+    },
+    {
+      "name": "Sony Xperia E",
+      "desc": "3.50-inch (320x480)",
+      "price": 322,
+      "image": "https://drop.ndtv.com/TECH/product_database/images/530201355005AM_635_sony_xperia_e.png?downsize=*:180",
+      "id": 6
+    },
+    {
+      "name": "Poco X4 Pro 5G",
+      "desc": "6.67-inch (1080x2400)",
+      "price": 356,
+      "image": "https://i.gadgets360cdn.com/products/large/poco-x4-pro-5g-549x800-1648452165.jpg?downsize=*:180",
+      "id": 7
     }
   ]
 }

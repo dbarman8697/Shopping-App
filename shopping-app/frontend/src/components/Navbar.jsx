@@ -9,6 +9,12 @@ const Navbar = () => {
       <Link to="/">
         <h2>OnlineShop</h2>
       </Link>
+      <Link to="/admin">
+        <h3>Admin</h3>
+      </Link>
+      <Link to="/login">
+        <h3>Login</h3>
+      </Link>
       <Link to="/cart">
         <div className="nav-bag">
           <svg

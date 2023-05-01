@@ -78,8 +78,8 @@
 }
 
 .products {
-  display: flex;
-  justify-content: space-between;
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
   flex-wrap: wrap;
   margin-top: 2rem;
 }
@@ -317,4 +317,19 @@
   display: flex;
   flex-direction: column;
   align-items: center;
+}
+
+/* Login */
+
+.checkbox {
+  display: flex;
+}
+
+.checkbox p {
+  margin: 0 0.5rem;
+}
+
+.form {
+  margin: auto;
+  margin-left: 1.4rem;
 }
